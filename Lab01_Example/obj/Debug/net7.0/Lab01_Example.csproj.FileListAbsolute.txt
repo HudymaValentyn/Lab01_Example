@@ -1,0 +1,15 @@
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/bin/Debug/net7.0/Lab01_Example
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/bin/Debug/net7.0/Lab01_Example.deps.json
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/bin/Debug/net7.0/Lab01_Example.runtimeconfig.json
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/bin/Debug/net7.0/Lab01_Example.dll
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/bin/Debug/net7.0/Lab01_Example.pdb
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/Lab01_Example.csproj.AssemblyReference.cache
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/Lab01_Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/Lab01_Example.AssemblyInfoInputs.cache
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/Lab01_Example.AssemblyInfo.cs
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/Lab01_Example.csproj.CoreCompileInputs.cache
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/Lab01_Example.dll
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/refint/Lab01_Example.dll
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/Lab01_Example.pdb
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/Lab01_Example.genruntimeconfig.cache
+/Users/artemgerencuk/Projects/Lab01_Example/Lab01_Example/obj/Debug/net7.0/ref/Lab01_Example.dll
